@@ -1,4 +1,4 @@
-Rank,County or City,,Per_capita_income,Median_household_income,Median_family_income,Population,Households
+Rank,County_City,Location_type,Per_capita_income,Median_household_income,Median_family_income,Population,Households
 1,Arlington,County,57724,94880,126947,207627,98050
 2,Falls Church,City,55389,114409,142035,12332,5101
 3,Alexandria,City,54345,80847,102017,139966,68082
